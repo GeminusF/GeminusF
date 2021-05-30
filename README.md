@@ -1,5 +1,6 @@
-# Hi there 👋
+# Hi there 👋, I'm Fərəh Feyzullayev
 
+- 👨🏻‍🎓 I'm studying at Süleyman Demirel University
 
 - 🔭 I’m currently working on Human Resource Management System
 - 🌱 I’m currently learning Spring Boot
@@ -14,5 +15,7 @@
 
 ## Current Repository(ies) 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GeminusF&repo=HRMS&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+## My Tools
 
 <!--[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GeminusF)](https://github.com/anuraghazra/github-readme-stats)-->
