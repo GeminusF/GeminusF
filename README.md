@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Fərəh Feyzullayev</h1>
+<h1 align="center">Hi there  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Fərəh Feyzullayev</h1>
 <h3 align="center">I'm studying at Süleyman Demirel University</h3>
 
 - 🔭 I’m currently working on Human Resource Management System
@@ -12,7 +12,7 @@
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=GeminusF&theme=vision-friendly-dark)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GeminusF&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GeminusF&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)-->
 
 ## Current Repository(ies) 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GeminusF&repo=HRMS&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
