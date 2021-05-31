@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Fərəh Feyzullayev</h1>
 <h3 align="center">I'm studying at Süleyman Demirel University</h3>
 
-- 🔭 I’m currently working on Human Resource Management System
+- 🔭 I’m currently working on [Human Resource Management System](https://github.com/GeminusF/HRMS)
 - 🌱 I’m currently learning Spring Boot
 - 🤔 I’m looking for help with Game Development
 
