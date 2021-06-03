@@ -13,6 +13,15 @@
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=GeminusF&theme=vision-friendly-dark)
 
 <!--START_SECTION:waka-->
+```text
+Week: 26 May, 2021 - 02 June, 2021
+
+TypeScript   1 hr 51 mins    ███████▓░░░░░░░░░░░░░░░░░   30.00 % 
+Java         1 hr 42 mins    ███████░░░░░░░░░░░░░░░░░░   27.71 % 
+HTML         1 hr 20 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.68 % 
+JavaScript   1 hr 2 mins     ████▒░░░░░░░░░░░░░░░░░░░░   16.77 % 
+JSON         11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
+```
 <!--END_SECTION:waka-->
 
 <!--[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GeminusF&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)-->
