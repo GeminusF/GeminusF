@@ -24,7 +24,7 @@ JSON         11 mins         ▓░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-<!--[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GeminusF&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)-->
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GeminusF)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Current Repository(ies) 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GeminusF&repo=HRMS&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
