@@ -12,6 +12,9 @@
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=GeminusF&theme=vision-friendly-dark)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <!--[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GeminusF&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)-->
 
 ## Current Repository(ies) 
