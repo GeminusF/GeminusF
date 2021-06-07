@@ -14,6 +14,7 @@
 
 ## Current Repository(ies) 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GeminusF&repo=HRMS&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GeminusF&repo=HRMS_Frontend&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## My Tools
 
