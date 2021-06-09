@@ -23,12 +23,12 @@
 ## Wakatime Stats
 <!--START_SECTION:waka-->
 ```text
-Week: 31 May, 2021 - 07 June, 2021
+Week: 01 June, 2021 - 08 June, 2021
 
-Java         5 hrs 15 mins   ████████▒░░░░░░░░░░░░░░░░   33.12 % 
-JavaScript   4 hrs 21 mins   ███████░░░░░░░░░░░░░░░░░░   27.50 % 
-JSX          2 hrs 8 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.45 % 
-C#           1 hr 28 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.29 % 
-TypeScript   1 hr 10 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 % 
+JSX          5 hrs 51 mins   ███████▓░░░░░░░░░░░░░░░░░   31.30 % 
+JavaScript   5 hrs 25 mins   ███████▒░░░░░░░░░░░░░░░░░   28.97 % 
+Java         5 hrs 9 mins    ███████░░░░░░░░░░░░░░░░░░   27.52 % 
+C#           1 hr 26 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+CSS          16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
 ```
 <!--END_SECTION:waka-->
