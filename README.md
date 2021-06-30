@@ -24,12 +24,9 @@
 ## Wakatime Stats
 <!--START_SECTION:waka-->
 ```text
-Week: 22 June, 2021 - 28 June, 2021
+Week: 23 June, 2021 - 29 June, 2021
 
-JSX          4 hrs 41 mins   ██████████████████▒░░░░░░   73.03 % 
-JavaScript   1 hr 5 mins     ████▒░░░░░░░░░░░░░░░░░░░░   16.89 % 
-Python       27 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.18 % 
-CSS          8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
-JSON         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
+JSX          4 hrs 40 mins   ████████████████████████▓   99.07 % 
+JavaScript   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
 ```
 <!--END_SECTION:waka-->
