@@ -24,7 +24,7 @@
 ## Wakatime Stats
 <!--START_SECTION:waka-->
 ```text
-Week: 26 June, 2021 - 02 July, 2021
+Week: 27 June, 2021 - 03 July, 2021
 
 JSX     15 mins         ██████████████▓░░░░░░░░░░   58.75 % 
 HTML    9 mins          █████████▒░░░░░░░░░░░░░░░   37.93 % 
