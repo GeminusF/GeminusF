@@ -24,12 +24,9 @@
 ## Wakatime Stats
 <!--START_SECTION:waka-->
 ```text
-Week: 01 August, 2021 - 07 August, 2021
+Week: 02 August, 2021 - 08 August, 2021
 
-JSX          14 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.69 % 
-JavaScript   13 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.09 % 
-Other        11 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.53 % 
-TypeScript   7 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.60 % 
-C#           6 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
+JavaScript   13 mins         ██████████████▒░░░░░░░░░░   57.72 % 
+JSX          9 mins          ██████████░░░░░░░░░░░░░░░   39.71 % 
 ```
 <!--END_SECTION:waka-->
