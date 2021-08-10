@@ -24,9 +24,6 @@
 ## Wakatime Stats
 <!--START_SECTION:waka-->
 ```text
-Week: 02 August, 2021 - 08 August, 2021
-
-JavaScript   13 mins         ██████████████▒░░░░░░░░░░   57.72 % 
-JSX          9 mins          ██████████░░░░░░░░░░░░░░░   39.71 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
