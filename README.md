@@ -24,6 +24,8 @@
 ## Wakatime Stats
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 05 August, 2021 - 11 August, 2021
+
+Other        6 mins          ████████████████████▒░░░░   81.24 % 
 ```
 <!--END_SECTION:waka-->
