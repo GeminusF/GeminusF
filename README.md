@@ -24,8 +24,9 @@
 ## Wakatime Stats
 <!--START_SECTION:waka-->
 ```text
-Week: 05 August, 2021 - 11 August, 2021
+Week: 06 August, 2021 - 12 August, 2021
 
-Other        6 mins          ████████████████████▒░░░░   81.24 % 
+JSX          28 mins         ███████████████████▒░░░░░   77.93 % 
+Other        6 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.28 % 
 ```
 <!--END_SECTION:waka-->
