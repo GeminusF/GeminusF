@@ -24,7 +24,7 @@
 ## Wakatime Stats
 <!--START_SECTION:waka-->
 ```text
-Week: 10 August, 2021 - 16 August, 2021
+Week: 11 August, 2021 - 17 August, 2021
 
 JSX          33 mins         ███████████░░░░░░░░░░░░░░   43.83 % 
 JavaScript   16 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.42 % 
