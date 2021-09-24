@@ -24,7 +24,7 @@
 ## Wakatime Stats
 <!--START_SECTION:waka-->
 ```text
-Week: 16 September, 2021 - 22 September, 2021
+Week: 17 September, 2021 - 23 September, 2021
 
 JavaScript   16 mins         ███████████████░░░░░░░░░░   59.35 % 
 JSON         6 mins          █████▓░░░░░░░░░░░░░░░░░░░   23.29 % 
