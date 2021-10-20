@@ -24,6 +24,10 @@
 ## Wakatime Stats
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 13 October, 2021 - 19 October, 2021
+
+JavaScript   38 mins         █████████░░░░░░░░░░░░░░░░   36.51 % 
+Vue.js       35 mins         ████████▓░░░░░░░░░░░░░░░░   34.42 % 
+JSON         29 mins         ███████▒░░░░░░░░░░░░░░░░░   28.72 % 
 ```
 <!--END_SECTION:waka-->
