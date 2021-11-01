@@ -24,12 +24,11 @@
 ## Wakatime Stats
 <!--START_SECTION:waka-->
 ```text
-Week: 24 October, 2021 - 30 October, 2021
+Week: 25 October, 2021 - 31 October, 2021
 
-JavaScript   2 hrs 17 mins   █████████████████░░░░░░░░   68.24 % 
-Java         36 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.91 % 
-JSON         16 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 % 
-HTML         7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
-Text         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
+JavaScript   1 hr 29 mins    ██████████████▒░░░░░░░░░░   57.98 % 
+Java         36 mins         ██████░░░░░░░░░░░░░░░░░░░   23.55 % 
+JSON         16 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.50 % 
+HTML         11 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 % 
 ```
 <!--END_SECTION:waka-->
