@@ -24,9 +24,9 @@
 ## Wakatime Stats
 <!--START_SECTION:waka-->
 ```text
-Week: 11 November, 2021 - 17 November, 2021
+Week: 12 November, 2021 - 18 November, 2021
 
-C            2 hrs 52 mins   ███████████████████████▒░   92.70 % 
-JavaScript   13 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.07 % 
+C            2 hrs 40 mins   ███████████████████████░░   92.20 % 
+JavaScript   13 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
 ```
 <!--END_SECTION:waka-->
