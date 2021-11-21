@@ -24,8 +24,6 @@
 ## Wakatime Stats
 <!--START_SECTION:waka-->
 ```text
-Week: 13 November, 2021 - 19 November, 2021
-
-C      10 mins         ████████████████████████▓   99.25 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
