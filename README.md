@@ -24,7 +24,7 @@
 ## Wakatime Stats
 <!--START_SECTION:waka-->
 ```text
-Week: 23 November, 2021 - 29 November, 2021
+Week: 24 November, 2021 - 30 November, 2021
 
 EJS          1 hr 15 mins    ███████████████░░░░░░░░░░   60.64 % 
 JavaScript   36 mins         ███████▒░░░░░░░░░░░░░░░░░   28.96 % 
