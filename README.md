@@ -24,6 +24,10 @@
 ## Wakatime Stats
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 01 December, 2021 - 07 December, 2021
+
+JSON         42 mins         █████████████████████▓░░░   86.87 % 
+EJS          3 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 % 
+Git Config   2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
 ```
 <!--END_SECTION:waka-->
