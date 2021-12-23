@@ -24,7 +24,7 @@
 ## Wakatime Stats
 <!--START_SECTION:waka-->
 ```text
-Week: 15 December, 2021 - 21 December, 2021
+Week: 16 December, 2021 - 22 December, 2021
 
 JavaScript   3 hrs 54 mins   ████████████▒░░░░░░░░░░░░   49.90 % 
 HTML         1 hr 21 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.39 % 
