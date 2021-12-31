@@ -24,7 +24,7 @@
 ## Wakatime Stats
 <!--START_SECTION:waka-->
 ```text
-Week: 23 December, 2021 - 29 December, 2021
+Week: 24 December, 2021 - 30 December, 2021
 
 Vue.js       28 mins         ████████████████████░░░░░   79.98 % 
 Python       4 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.58 % 
