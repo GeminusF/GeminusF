@@ -24,7 +24,7 @@
 ## Wakatime Stats
 <!--START_SECTION:waka-->
 ```text
-Week: 07 January, 2022 - 13 January, 2022
+Week: 08 January, 2022 - 14 January, 2022
 
 HTML         5 hrs 48 mins   ██████████▒░░░░░░░░░░░░░░   40.67 % 
 Python       5 hrs 36 mins   █████████▓░░░░░░░░░░░░░░░   39.26 % 
