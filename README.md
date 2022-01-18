@@ -24,12 +24,12 @@
 ## Wakatime Stats
 <!--START_SECTION:waka-->
 ```text
-Week: 10 January, 2022 - 16 January, 2022
+Week: 11 January, 2022 - 17 January, 2022
 
-Python   4 hrs 32 mins   ███████████▓░░░░░░░░░░░░░   46.49 % 
-HTML     3 hrs 21 mins   ████████▓░░░░░░░░░░░░░░░░   34.42 % 
-Vue.js   1 hr 42 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.55 % 
-Other    5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
-JSON     3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
+Python   4 hrs 32 mins   ███████████▓░░░░░░░░░░░░░   46.13 % 
+HTML     3 hrs 21 mins   ████████▓░░░░░░░░░░░░░░░░   34.16 % 
+Vue.js   1 hr 42 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.42 % 
+Other    5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
+SQL      4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
 ```
 <!--END_SECTION:waka-->
