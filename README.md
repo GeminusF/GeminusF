@@ -24,6 +24,9 @@
 ## Wakatime Stats
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+From: 15 February, 2022 - To: 22 February, 2022
+
+Python   2 hrs 56 mins   ██████████████████▓░░░░░░   75.25 % 
+HTML     57 mins         ██████░░░░░░░░░░░░░░░░░░░   24.57 % 
 ```
 <!--END_SECTION:waka-->
