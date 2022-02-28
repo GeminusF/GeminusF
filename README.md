@@ -23,10 +23,14 @@
 
 ## Wakatime Stats
 <!--START_SECTION:waka-->
-```text
-From: 18 February, 2022 - To: 25 February, 2022
 
-Python   2 hrs 56 mins   ██████████████████▒░░░░░░   73.40 % 
-HTML     1 hr 3 mins     ██████▓░░░░░░░░░░░░░░░░░░   26.40 % 
+```text
+From: 20 February 2022 - To: 27 February 2022
+
+Python   2 hrs 56 mins   ██████████████████▒░░░░░░   73.40 %
+HTML     1 hr 3 mins     ██████▓░░░░░░░░░░░░░░░░░░   26.40 %
+JSON     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
+
 <!--END_SECTION:waka-->
