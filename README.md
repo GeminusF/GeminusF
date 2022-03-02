@@ -25,11 +25,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 21 February 2022 - To: 28 February 2022
+From: 22 February 2022 - To: 01 March 2022
 
-Python   1 hr 31 mins    █████████████████░░░░░░░░   67.50 %
-HTML     44 mins         ████████░░░░░░░░░░░░░░░░░   32.46 %
-Vue.js   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+HTML     5 mins          ████████████████████████▓   99.12 %
+Vue.js   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
 ```
 
 <!--END_SECTION:waka-->
