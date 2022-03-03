@@ -25,10 +25,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 22 February 2022 - To: 01 March 2022
-
-HTML     5 mins          ████████████████████████▓   99.12 %
-Vue.js   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
