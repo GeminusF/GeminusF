@@ -25,9 +25,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 12 March 2022 - To: 19 March 2022
-
-HTML   1 min           █████████████████████████   100.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
