@@ -25,9 +25,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 17 May 2022 - To: 24 May 2022
+From: 18 May 2022 - To: 25 May 2022
 
-HTML   25 mins         █████████████████████████   100.00 %
+JavaScript   1 hr 35 mins    ██████████████████▓░░░░░░   74.25 %
+HTML         29 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.57 %
+JSON         3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
 ```
 
 <!--END_SECTION:waka-->
