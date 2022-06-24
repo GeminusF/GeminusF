@@ -25,10 +25,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 15 June 2022 - To: 22 June 2022
-
-JavaScript   2 mins          ██████████████████████░░░   87.76 %
-Bash         0 secs          ███░░░░░░░░░░░░░░░░░░░░░░   12.24 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
